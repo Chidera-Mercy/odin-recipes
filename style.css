@@ -1,0 +1,24 @@
+*{
+    background-color: lightgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    width:600px;
+    height:auto;
+}
+
+h1,h2{
+    background-color: wheat;
+    color: darkgreen;
+    text-align: center;
+    font-size: 45px;
+}
+
+h3{
+    font-size: 35px;
+}
+ul,ol{
+    color: black;
+    font-size: 30px;
+}
