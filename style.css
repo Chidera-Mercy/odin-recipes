@@ -1,10 +1,18 @@
+
+
 *{
     background-color: lightgreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.div1{
+    background-color: wheat;
+    text-align: center;
+    padding: 50px;
+    border: 5px solid black;
+}
 
 img{
-    width:600px;
+    width: 800px;
     height:auto;
 }
 
@@ -13,6 +21,7 @@ h1,h2{
     color: darkgreen;
     text-align: center;
     font-size: 45px;
+    border: 5px solid white;
 }
 
 h3{
@@ -21,4 +30,19 @@ h3{
 ul,ol{
     color: black;
     font-size: 30px;
+}
+
+.div2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+button{
+    width: 150px;
+    height: 100px;
+    background-color: wheat;
+    margin: 0 50px;
+    border: 5px solid black;
+    font-size: 20px;
+    color: white
 }
